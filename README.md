@@ -22,3 +22,7 @@ I thrive on learning through building. From ML-driven solutions to emerging fiel
 
 }
 
+```
+##✨ Continuously exploring, innovating, and learning.
+
+##🤝 Let’s connect and collaborate to transform ideas into impactful solutions.
