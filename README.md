@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Hello World, I’m Sakshi!
+I thrive on learning through building. From ML-driven solutions to emerging fields like Generative AI, LLMs, and intelligent systems, I’m driven to bridge innovation with real-world impact. Every project is more than code—it’s a platform for experimentation, growth, and shaping myself into a future-ready engineer and innovator.
 
-<!--
-**Sakshi0008/sakshi0008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📂 Technical Expertise
 
-Here are some ideas to get you started:
+```json
+{
+  "languages": ["Python", "C", "C++", "Java", "HTML", "CSS", "JavaScript", "Dart", "SQL"],
+  
+  "frameworks_libraries": {
+    "ai_ml_dl": ["TensorFlow", "PyTorch", "Scikit-learn", "OpenCV", "Keras"],
+    "llm": ["LangChain (learning)", "OpenAI API (exploring)"],
+    "backend": ["Flask", "Node.js", "Express.js", "Django(learning)"],
+    "frontend": ["React.js", "Next.js", "Tailwind CSS", "Flutter"]
+  },
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  "cloud": ["AWS (basics)", "Render", "Firebase"],
+  
+  "databases": ["MongoDB", "MySQL", "SQLite"],
+
+  "tools": ["GitHub", "VSCode", "Jupyter Notebook", "Google Colab", "IntelliJ IDEA", "Power BI"],
+
+}
+
