@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%7C+CSE+Student;Full-Stack+Web+Developer;Cybersecurity+%26+Deep+Learning+Explorer;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-🎓 **CSE (AI/ML)** @ VIT Pune • **CGPA: 8.55/10** • 📍 Pune, Maharashtra, India
+🎓 **CSE(AI/ML)** @ VIT Pune • **CGPA: 8.55/10** • 📍 Pune, Maharashtra, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-aswale-70a304288/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakshi0008)
@@ -62,18 +62,15 @@ me.say_hi()
 ### 🎨 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 ### ⚙️ Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🤖 AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -82,8 +79,7 @@ me.say_hi()
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 
 </div>
 
@@ -101,56 +97,9 @@ me.say_hi()
 
 </div>
 
-### 📂 Other Notable Projects
 
-<details>
-<summary>Click to expand</summary>
-
-- **Trading Intelligence Platform** - Real-time market data processing with custom ML indicators and backtesting framework
-  - `Python` `TA-Lib` `Pandas` `NumPy` `WebSocket`
-
-- **Portfolio Website** - Personal portfolio with dark theme, smooth animations, and project showcase
-  - `Next.js` `TailwindCSS` `Framer Motion`
-
-- **Chat Application** - Real-time chat with end-to-end encryption and file sharing capabilities
-  - `React` `Socket.io` `Node.js` `MongoDB`
-
-- **Image Recognition API** - REST API for image classification and object detection with Docker deployment
-  - `Flask` `TensorFlow` `OpenCV` `Docker`
-
-</details>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakshi0008&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi0008&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sakshi0008&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)
-
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-- 🎤 **Paper Presentation** - Presented technical research at academic conferences
-- 📜 **C/C++ Programming** - Strong foundation in system-level programming
-- 🎓 **CGPA: 8.55/10** - Consistent academic excellence in AI/ML specialization
-
----
-
-## 📈 Activity Graph
-
-[![Sakshi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sakshi0008&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=C9D1D9)](https://github.com/Sakshi0008)
-
----
-
-## 🌱 Currently Learning
 
 ```javascript
 const currentlyLearning = {
