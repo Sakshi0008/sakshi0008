@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%7C+CSE+Student;Full-Stack+Web+Developer;Cybersecurity+%26+Deep+Learning+Explorer;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-🎓 **CSE(AI/ML)** @ VIT Pune • **CGPA: 8.55/10** • 📍 Pune, Maharashtra, India
+🎓 **CSE(AI/ML)** @ VIT Pune • **CGPA: 8.7/10** • 📍 Pune, Maharashtra, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-aswale-70a304288/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakshi0008)
@@ -27,7 +27,7 @@ class SakshiAswale:
             "institution": "VIT Pune",
             "degree": "B.Tech in CSE (AI/ML)",
             "year": "Third Year",
-            "cgpa": 8.55
+            "cgpa": 8.7
         }
         self.current_focus = ["Cybersecurity", "Deep Learning", "AI/ML Systems"]
         self.interests = ["Artificial Intelligence", "Web Development", "Secure Systems"]
